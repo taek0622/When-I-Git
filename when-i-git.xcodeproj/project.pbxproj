@@ -16,7 +16,6 @@
 		260D7F1429CBDA03003F2399 /* Token.swift in Sources */ = {isa = PBXBuildFile; fileRef = 260D7F1329CBDA03003F2399 /* Token.swift */; };
 		260D7F1A29CC05E9003F2399 /* HelpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 260D7F1929CC05E9003F2399 /* HelpView.swift */; };
 		260D7F1C29CC060E003F2399 /* UserListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 260D7F1B29CC060E003F2399 /* UserListView.swift */; };
-		260D7F1E29CC0882003F2399 /* UserAdditionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 260D7F1D29CC0882003F2399 /* UserAdditionView.swift */; };
 		260D7F2029CC0C0B003F2399 /* ContributionGraphView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 260D7F1F29CC0C0B003F2399 /* ContributionGraphView.swift */; };
 		260D7F2429CDFD3C003F2399 /* AppTexts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 260D7F2329CDFD3C003F2399 /* AppTexts.swift */; };
 		260D7F2629CDFEC3003F2399 /* AppColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 260D7F2529CDFEC3003F2399 /* AppColors.swift */; };
@@ -34,7 +33,6 @@
 		260D7F1329CBDA03003F2399 /* Token.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Token.swift; sourceTree = "<group>"; };
 		260D7F1929CC05E9003F2399 /* HelpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpView.swift; sourceTree = "<group>"; };
 		260D7F1B29CC060E003F2399 /* UserListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserListView.swift; sourceTree = "<group>"; };
-		260D7F1D29CC0882003F2399 /* UserAdditionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserAdditionView.swift; sourceTree = "<group>"; };
 		260D7F1F29CC0C0B003F2399 /* ContributionGraphView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContributionGraphView.swift; sourceTree = "<group>"; };
 		260D7F2329CDFD3C003F2399 /* AppTexts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTexts.swift; sourceTree = "<group>"; };
 		260D7F2529CDFEC3003F2399 /* AppColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppColors.swift; sourceTree = "<group>"; };
@@ -76,7 +74,6 @@
 				260D7F1929CC05E9003F2399 /* HelpView.swift */,
 				260D7F1B29CC060E003F2399 /* UserListView.swift */,
 				260D7F1F29CC0C0B003F2399 /* ContributionGraphView.swift */,
-				260D7F1D29CC0882003F2399 /* UserAdditionView.swift */,
 				260D7F0C29CADE78003F2399 /* NetworkManager.swift */,
 				260D7F1329CBDA03003F2399 /* Token.swift */,
 				260D7F2329CDFD3C003F2399 /* AppTexts.swift */,
@@ -176,7 +173,6 @@
 				260D7F1429CBDA03003F2399 /* Token.swift in Sources */,
 				260D7F0129CADE53003F2399 /* ContentView.swift in Sources */,
 				260D7EFF29CADE53003F2399 /* when_i_gitApp.swift in Sources */,
-				260D7F1E29CC0882003F2399 /* UserAdditionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
