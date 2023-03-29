@@ -9,6 +9,18 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        TabView {
+            UserListView()
+                .tabItem({
+                    Image(systemName: "square.grid.3x3.square")
+                    Text("Users")
+                })
+            HelpView()
+                .tabItem({
+                    Image(systemName: "questionmark.app")
+                    Text("Help")
+                })
+        }
     }
 }
 
